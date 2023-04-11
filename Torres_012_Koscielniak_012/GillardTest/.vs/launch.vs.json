@@ -1,0 +1,16 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Gillard.exe",
+      "name": "Gillard.exe",
+      "args": [
+        "P",
+        "README.txt"
+      ]
+    }
+  ]
+}
